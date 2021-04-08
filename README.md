@@ -1,6 +1,6 @@
 # Presentación
 
-## Estudiante:  
+## Estudiante  
 Nombre y Apellido: Fernández Facundo Agustín    
 ## Quien soy  
 ![mi foto](mifoto.png)  
