@@ -1,6 +1,12 @@
 # Presentación
 
-## Estudiante: Nombre y Apellido: Fernández Facundo Agustín    
+## Estudiante:  
+Nombre y Apellido: Fernández Facundo Agustín    
 ## Quien soy  
 ![mi foto](mifoto.png)  
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+##Sobre mi  
+🎮 Me llevo mal con las rutinas, no tengo internet hace un mes, pero siempre me las arreglo.  
+⚽️ Juego y jugué al fútbol, tenis, rugby, paddle y probablemente alguna otra cosa que ya no me acuerdo.  
+📐 Soy un amante de las matemáticas (creería que mas de las analíticas) y a todo en lo que haya que romperse un poco la cabeza.  
+📙 Me encanta explicar todo lo que se a las personas.  
+
