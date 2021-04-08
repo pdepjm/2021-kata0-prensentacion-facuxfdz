@@ -10,3 +10,5 @@ Nombre y Apellido: Fernández Facundo Agustín
 📐 Soy un amante de las matemáticas (creería que mas de las analíticas) y a todo en lo que haya que romperse un poco la cabeza.  
 📙 Me encanta explicar todo lo que se a las personas.  
 
+## Extra  
+Si sos el otro Facundo Fernandez por favor haceme un issue, onda, tenemos el mismo nombre
